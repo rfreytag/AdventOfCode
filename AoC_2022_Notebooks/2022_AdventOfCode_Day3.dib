@@ -1,0 +1,480 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":null,"items":[{"name":"csharp","languageName":"C#","aliases":["c#","cs"]},{"name":"fsharp","languageName":"F#","aliases":["f#","fs"]},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"html","languageName":"HTML"},{"name":"sql","languageName":"SQL"},{"name":"kql","languageName":"KQL"},{"name":"mermaid","languageName":"Mermaid"},{"name":"httpRequest","languageName":"http"},{"name":"value"}]}}
+
+#!fsharp
+
+let raw = @"GGVGlqWFgVfFqqVZGFlblJPMsDbbMrDMpDsJRn
+LwzHtwdLHHwDrzPZzzsJbJ
+wdLTBvSvHvZVGCjhfN
+HsSSnZVHjjssZnJpSJjBHHWgQGcgqqQLQdQFqNgWgqGNDg
+rmmRwrtfThtTrbCrGGGcLBDTqDBNQLdL
+mwPrrbzPfwvbzhwMMnnjHnBjZlnzMM
+gjjdMBgdqdTpJpBcjgRRRlqnvrqfnZtrtZDw
+zHShWLhCszCWHVbVzQWCPtQvNZRwtfftfNnrnftlfR
+PzPSssHbVhCLFMJFcMFJJMjdJw
+ZqJdtpfpjmpJjpnwWdttTCDLLTQFNTzTzrcqrQqc
+MsSlBGvBsSGGSlbGsCgggNTgzNLczFQNrNQVQcFzFF
+sGHHSGllhvMGhSRGCjtjtjnjnnmHWpWWtJ
+tMdjQlHPHsGjsCtsCpwwqfhfnnFMDMrpfD
+SbNvWvBRJRWwFSgppgSrfg
+RNcNbvzJRcVLRVzTRFLjdHCQttdZdPlHstPl
+QWqgpdBflpHNCNWNHHPm
+VVMbbJsLFVMhrMJMmRjFNHwHjjCTGSSRFj
+mbMsZzsLmVhJZrcLcJhLMtnqvBnZdggplDffvlnlvnDn
+prnNnsFnZpnBNdNtFrNnzNQQwTTQZqTHTQJQMwHDMDlZ
+jgfgcSmbLmhmcPShghRdmwJTQjTlqGlJQJHqQqGHqQ
+hRVhPfbCgbVggLVRSSmRhRPhrrrnCzzsvCvrnvFnNppsvBtd
+QJLNDWSWQdLFFFhLdt
+npHhHMsfsjpZjznRtmrMCdBwFBFrBdmt
+HsjHqRRfnnHRsgfHffZspgzqDGQSWbQTDNGhQhSqNPhDWWbT
+bsCmFDsGZCNsDmLDLZBSHSJTHnrZQMQSSQ
+jqRpwvfqnnRQrftdBMHddB
+phpchwpzjpvwRzwcsnlFsssPCCGzDlsD
+rMqzVQfrfVZWZhTdRTQL
+cgmtFtjFFJDDtFvSFRZdLlhpHZddmwTZWh
+FbcSTtctcvFTJNgtJDGNPnCqMPMfMBfznGVsrMCq
+wLJfGJJPZLBfwSLGHbqmhhDHHhFDzfhv
+FsnpFjVjplTQCspNlCDbzhMMbqvMvsgmHDqb
+lRdlTdTddllpRQFRltVVdFRcwrtrcWWcPrrWPrPSrZWLPc
+VGVZhTppGTfPnJVJrFqbsmbSSshHqWqRHF
+llzDCzlBLdNcCddlMMNBdCCtWHbFqFRRRsHjWtRwSWqbmjWm
+NbcMBBvzzMQLCDBVTQQPVrPQPPZVPp
+cdcgfmQdqlqhzzPjzfwpwf
+GLBGBDvbvRzGwtnnmPpp
+ZRCZBRFSRvLRLFvvbLLFQdHMTHTlQlNqNmqFlWdH
+vzjzvHtcHvJcDStLLGSShCbbfF
+MWFFTVZRMmMgdQdSQLwQrQwbGw
+gFTmgmVZssRsWZRNzJlBHHnnJDvzNPlP
+rHrvHpmHZfdGDDGGZd
+cTlMsNhllMhGchNPCBlhMQgVDdgDSSWVbWVwRQwRSgbV
+lnBjnNNTTMnCTcChPNhMvtzvFGLtJrjFtHHHzHJm
+lgpdZZMmGVVzVZzt
+HfHLrHqbPbzJJzRJJPTl
+HsLWWbDqFrqlqfbsbDqDBncpgFmmvpnmmgpvdvjcdM
+GpNVbTpJJNvMBMVvJTGvhnWQQScllnhhWlhVSznV
+ZjswwHHLZzGnjWjSjl
+sHdftLLtgLfwdtPmHtMbNpMTpNqGRbPvTqPv
+sHSNNhNwsllGSGGlWSGWSsFrrVbQrdmFrVrrmnrHmrHr
+QQMRZDDRcrcnmRcV
+fJfCPMJCzTMZSGsWwsWBwqQf
+HwQZZJsHdqqsdJQGRgCgVGgSqgpcGG
+ljWWbnPhjBlGpCRCnScSGg
+hrrztWlbPjltjMPSdJDZSsHttwsZwD
+VzzbmzvpvNhvBDqc
+QHSJSQGCwJCGrGQjjcgcBFhdgqdqFdDNNw
+rCGJtZrHhhtLRsth
+TMWwCLPpMTThrvtMRJjbjRvmJs
+fDzcHFfSfFQfZzZRJbdmmqqssqtbSW
+WWgGZglcllgPBBCBNVGPNr
+wrwwhpTpbqhqrshrrfrFfwfzRJGdNJHNmcFzCCzCRJGzGR
+vMggvjQvgPvQjVLMMPSZqWNJGCzcNGdcdzHPPzcmCzPz
+qDZWvBZVfDhbTtrp
+LpDvHdjVghnjbGrn
+FBBBPwwlBlwSfFTWPHPWWhmgngmmnPnmbsngngbGrb
+FwftBSCSfWCtwfVQDvHHCMVvdQLQ
+ZrQpQlSpNlqQCVnQBmdDqmWDqmWWBDBB
+HsZMsJvZzLMHTRwWhgDwmfDBgdhWdf
+RZvTzJGzRjFrVNVjlQrS
+mqjMwfqlSSPmSrlPhwhVpGRcppWcpcGRcGWv
+ssJDJJNgZNDWrRWcRpvr
+ZTsTnnsLJQgPnfMwmnMrfm
+qsVBvZqWLdfbfvLj
+mPNRgmHBBGQrCbSbrdfCCSbC
+PlQTGcTTcgGFQQGPTGllpqMzwzpVJZwBMssZ
+FWGcNRLRLhwJJQfV
+nzbzlDBHSpTDbpDpzHwCqhqwJJghQqQMCCBw
+JnzndzpmJFmNsrrFsc
+gmRwwDwfnRDJgwZLFQFFNGNQrFBmFbbm
+CCVHVWWThSrjVGvbNj
+WpdqpplppHCWzlClMMTTZJcJsdscJLLdbDDfZDgL
+VNtCCMDllpBqDvtdCczTSgjHlzGSHSGZTZ
+hPFPsQhhFhLnbsRnLFssdzcHdsSHSSHgjzHG
+QPWPQrPPmbdnbWLFPrrBVrVDBqqNMVwttDtBvD
+PPNNRggwgRRgHBhDtwhTwbDs
+SFGSFSMCJFMrcrCMSSsbtrTbbZhBvtHhrTHD
+MFfSMpflQLQflfLjnLmddsLdddqq
+RcgbcrrFscVrwZVCgVGGmHppNNndWnGdNqddqqNqND
+jTlSTBSTjLTvlvjjPtvMLlhHnftphtDFNFqDnDHWNddn
+QBMQvzzjzvJPjFQMmwZJrgmCCJVRVbbc
+CzPJsWCpvsNszsJsNsHlDhMrrJGjhrRVhRGgDDjG
+tFFdbqFLFdwctQdfVhjRRghTcrjVRTDW
+bwQtFLdLBdFmwnHnWHPBNnHCnp
+CNTstGNslRRRstlmNmmTZZqfFwtqgwqgfBPSwSWwqgWq
+hpDbcHbpSrcgqqzhhWVfqg
+DDcLDjbMjCSsZRNlMv
+MhHMCMNbzbMHlcqmGmrmWc
+tnPggdZPBPgdtttJpdnwVBnmqQcvlQrQlfGqmfWffBcqWD
+VPPwPPLPwLGFGLzCbG
+rqBcBmjHTGfPbcVgPG
+dlDpsdshzlldlDvsWlWvLQbQBbfLFLbPvbBGQBgG
+BlBznnRWzlphphBnhZjZtNNCNmrNqjCqHwHN
+mQBvmvBmmLJvvrLtttQrfhGlcRGfRhVGWJVChlRG
+MzPswTsbTPPsNgMNszgzMpbMfcRcGflVGRfWSpFRlWWWFhcC
+bcPsTbgbbTTwNZzTZzvdjdjtQQndZvdrvdmZ
+hQzTQJFFZJrcdcdZFFrGFSVWVRWRwRgRHVMWDCDSWc
+lPmpNBnnnsNBnLnfbfnCDWMvwRvDCCMPwwHWvM
+HpjmffNlnqqhddTddFZjGJ
+BwsLFFbHLbVCSCSFbsbFLsJbqnTtZrRMHTZtrTrZTcRRRRTq
+lGhNhpPmmhpztZTBrcpjRqpB
+QPzdfzBQNgFJSCwsdLbS
+ZsZsSBTgffSCqSSfrMnnMwjqmqmnnnqwMm
+bbPPbzVclcPzGNlvzVtmnDBnQmtnQLBjJVLn
+zPFGplGGvdPbHplcbzzvdlNBTThgRpCTCTfhfsCCsSRZhR
+CVLSVCLVZRsHcnzSRpdZZRCdPlmcMWDDlPNqMqtDMmqPMlDt
+TBnGjfQrQJjhfWlPPmPQDNlmlP
+fjhhGvjvvrTTBhvTBTbvGVRLzVnbSRZpHddspHRzLs
+DDtWjfRfftWMLzSQjzzhWjjwRVPHqFbBbZHVwZBFvFwZvZ
+JGllgCJlJsrCGPrCNTPdslvZVVNVbvBqNbbpbbFHpBwZ
+CcPdnCdmCJjfcftWhtSL
+pgpfddDGHWzDNGNGpRCQjCTFHZZQFQjcRT
+bJlhqmMvnlrRQFtTthPVhZ
+lvbJrlJMBwfzGNTddB
+wpbJGGZpsjvtdWvGWF
+HqqhBhBqhhNQHTSHqqNzRHVPvTvddWrjtrjFvrvdTdVP
+NRLCRzlqHQtNRBLzQllhhZcgbggwmLDZpsgssDpwwD
+pDzFzJFcVMcWJFJFzpLBsqWLZssshsGLGbsS
+wqHqfvnfrRwQtdQRthhBbBbZLhPLnBTGsh
+CfQqlqvtfHNvMVmzmmMCFDMc
+GcgpNHvcSNvpSLphdhsLdQTsdWThhQ
+wwzttPrrhQswdhnT
+tjJjMJRbRbjztmjtjbgcRsNlgglHpDFSlSvg
+VVLvLqqPVlvcqLLdwLbHpzcHSsbRJppHbHpF
+CfjjCNGmMWhWjhWHWb
+ZmGZffggrDqZvZtlbTqL
+TTmmhvBvvHWzHpsPpstpLVdwwsLb
+qflfFgNctNcCnCCNDnfFFNDwrslwZbPswwZbJLJZbrlPLL
+FgQDDcncStCgtqccjSDTHWMThvhTQMBQhWvWRG
+SqhVghPccSBhgSBqWBFNQNsHQHMjCCQQWCwQHN
+fLZftnlttcbbtZbZlpZtttQjwsCQjRwwRDQspMRMNNQs
+TfLtvbJtZmlbTTTtlJbFvVqPSgBdPqPhFSGBcd
+pPPNDptcqtpcDztLDhhngnnJgJTmJwNnwm
+HVVCsSClHGBCHslWHbSCGGVngTrJwnnJnQRRBrhQhgJhdm
+WTWWWsvVlvGbWCFvjDftPpjqZLLtDz
+wWclwtDwRvflvffB
+sMMsGdsSTMrJZNqczfdvhvnzCnfv
+rspppMjMspSTSMpgLjcPFmwPLmPHwb
+tCdSMHtHtRFHdWSSJQSgrrrnghTNJN
+BGfcvDsfvsqcvqfGvfGnNLhggBNQJNJQmpgQJm
+sGfQDPDZzfDZzclwDzwsDlfjtbdHClFRCMWjbMFMRFWbdj
+pJNCcvqCccsVvFCpqsmvWJfCBWgSzBBRrrBRDDgDrSbbgQbQ
+TMLnLjjffwfwGdjQjDDBjBrDtztRSb
+MdPLGhHnMZhlPHHTFfZvVCpmmmcFcVFC
+SwFMfCMRCdQDdMbmdFfdbbnlcVncVCcgLqWcNNnCcWlW
+hPjQzzhGzhpPrtPJPpPHrVgnqVVncVVnNHlqVnncNB
+ptjGrptztpthtrtJJhTsGwFDZZDQmSdfZSwsRZSwfZ
+rSSWWCWrdllHWpjcnFNnRCNjQp
+bGwwJqGVGbGJVVhgbBgttGmBQjFsMjpMcMnnMBcQFNnsssvv
+bfthwmfJfgwwmmwZqVJPHNHSZHWzSlDPrdDdSH
+nmJccvclcbwmlbbvVbvsHwJJPCPNCNPnLBhrBPPLBhLhBgBP
+MdRGtdDRTqWDMqtMDtQDRWSdLLBsrhLgBCgrgCgNNLPBfNMf
+dRZQdDdRRSQWGsjZmwzjmlzsZH
+PBGGMrTQTrTBpPQpLpSlwjwfjtlnfwbmGttw
+fCsJCWJcvRCtwwjbCl
+NsqcsfcvDHFVDJvdLQTrpdTTzTPpHr
+rltrwsBTlrfGZggGBLGGNN
+jhMnRQJVphMnbhvQjDZNqqZDNTNHZVHGHq
+MRvbhQRQQChpvbjvMSvQnMcsFsfwwmlCwFwWcTWwrmPc
+DDvLLLBnvrzvbvbmtv
+TMwRjTRMGCwGGwrjQQnmrQrrQdhZ
+MJPFHFTwgCGqGqgJMGDfSWcsnBSccgVDlnpW
+flzVzNrdLNLJzrGlfdlzjrQDgFTpDgDmmmgFmqFDQjQh
+CbnBcsZnPZVSnwvVsZbRhhBDpgFphgmgDgTppq
+ZWnsWSnncSZsntZCbsswwJMzdLzlMdNMLtMVfrllMt
+ZffSgNfgJgGCHZcZrpHrNJTLhqvSLTqQnvVTLvzvLTjV
+tWFtHMwlBlDqjjzjnqvvlV
+DRMPDtWHPFDBFFwWMFBmFRPgZpJfsffNGJNrGcsprrsmfg
+wRZRmpZmlPqZjzGrdrGq
+bBhQQFPQbPDVNzVNzdGWNdrf
+QFbcDcDbLHgHBPDFRsSSMtmvRttMpCLS
+MpWJVVJMcWvpRShcwpLGflmqzSfNdfNLdQzN
+CDBTtCgtbjgCRrBrPBTQqzflNqjGdLzzmqffzq
+rFgnnBbttDTPtHCDPrPMnpwVJhJvMZvpMvppRZ
+sWTTmpsfsWppPTTsTVZWHVVZNvVcdcJvdN
+DjjBzjhRHvvvSzdc
+rMBjjrjbjrGDlgMlMrGjBgRLPTTwHMsfnFwFQPMPMnmFFm
+QRRbDjjmPzNQwFDNmrQmzCbVHrMhBVrJLJJfMGGLtfJBHh
+dsWcsqqWSWvnWnWcWGPJLBqhLBqGhBJHHH
+ZWnPWgWgPnlbCDDwmmDbRZ
+nfPqqfLqQnfHBSqnzztQjVmjfGRWJNGRWsJWJfmJ
+TTMlMMlFDMGVGRsVJH
+CbDbFDbvgTFFwgTDlDprhlPSqBzSnPdLPtPPHgznQqBQ
+fJmWVfHqjfjhZCQZ
+NcNzBNvgszQmzjnthZQC
+LsLsgBNFmFgTFgGBBgcdMdvPDPDJWrlpVbGpJWqHDlHJHD
+SllDdvzgdFDdlPJvbFDDSzFScPTRTNcwfZRwRhcwwNnRZTtf
+WBpWBCLGVpLjHrHGGVhZNwcTVcNhVnRcNZ
+LHLQLspHWQGpWCHnBvdzDJFlqvdsqgSgqS
+GcTctDMjMhpMDRjLsMMsfDWFfdPCFNbnCPnvCPgW
+JmvwqlBwnmfdFPFP
+SvZqHSZqqHZZZBlllBwSwsRsMHpLjpLsMGtsMspGRT
+ClLnCLfClLVllfLLcQjLBCfCmSHVsttsmtsVStDNVdppdsSp
+PFrRMbWqMRwFRqRSqwqvMvMsGtgsdmssrgNtdmpNdDGgdt
+bwJbPWPwFFPFSczCZzZZCcfjBJ
+MwmBmzwJQTcTmfPVfZPwhhwHPH
+jlnrglFLvbrGRFGnvFZdNNFfPZddPThVhdPH
+RjbjpgbnLGvpLgzBqBpmWmmzqTMS
+FnsSpttPnPbNCFDtsPnFHQZTQZgcwgDDTfrfTHMZ
+mRjzRzlvBvhjZrQmMMwfZZNN
+ldzddlzLRlRWdhjdRLjhRWtJbJbNtJJpJPbCbGCWNG
+wBwmNZBTmzzcVcmpzZqdMgPjnLSVlPgDPdbMdg
+flJvGtHffHDddddbHjnb
+RstrhfrhhRGFQtRhtftvQhvFZpsmpWwNlWqcWTccBNWswqNp
+DPWhbzDlQLLlQbLDlLhPhLFNNJqCFGqnNJCCSCnGPnGN
+wvwjtvtdwfssvSJgFFvGGSCFcp
+mtdrZwwJsrtddrHRtZWbVThLlBzVTzhHQWhB
+TsRRWctsTJMQZllggc
+zDvhpbprgGvpvVlVQlZpQMJVlQ
+rrrvFvGCDhDSrrrvChCgSstBNTSftWBjTdfWBN
+JJdssBcLVGrgbBHWrH
+QZTptvmvmlZpRDlMMMZCQvnjjFnrjWGFbjnrnFGWgZrz
+TMRplDMggtwlppTlvhsJJqdcqwVPSSNcLd
+JjTCCrcRvccPLmMP
+NfGFPZlNnwBfPlbbbQZGqLHgzLghSmMBzSgvzmDMhv
+ZfbnNQpQnZGlGlGpWTddjdTJdpRPTrCj
+gWLblMMggdWsdRJlblMRMMqWDvPvcPPPccJPJVTZVZThmcDP
+rQFfGfrCHrjnrtNTcPShTSPvvVLtmm
+fQrCfLrpLHnCHwslqzqsslswzqRW
+zpJtGlJPMPTlTjGJCDGCDljpdnvhhWnZnZnDwwmvnWDWWvdd
+sHrVrSrRRRLNgLVBqSsZmWwvwcvwZjmwngmdbn
+QsQQBrrLHTjPpTQzzP
+JDlzHHzzptRDmbTMrrVQ
+dRRNqnCBnmrQsVQQ
+wFPCBNFgwjPwhgFNztftpJRPpzRvvHtZ
+DlBhrDBPPwMWwhWchW
+ntSqbbSJFJNqzVzjCfMvfSlSRWccRL
+mVlHtNVtqldbJVmNHmdTTBBgrQQgGsPQdrDgsP
+HWHNbBgvNLdcvQMnSf
+wqqqVPDPhqwszFwrrszFfMdWthLcMdfhthSQfJSt
+qVPVwTzFwFDpDrPDzDPFDPlCHjBGjTmZGjbWWGZBRTNjjH
+GVgdWjllSqgjdgHqqlfmhwcpwCzhvZwMcScv
+nsJQbLRQsNnzQDQQPPBbRBRhfZwpZcvwpvvmLCcvpcmfMM
+DRJtnnRbBBnPztsrPzRBPbsFFHqqVrqggjFWqrgWjTGgFq
+hhZJQPJFHGGlcWWslpNN
+VwwwJjvwMtrCnwjDNDzlfscWszWW
+nVStCrMqbVwqVqSqwnLPhTJFdRgJHZSFRLTP
+vPgMbbRhhvMvNjjLWsWQsHQmHwBrmmBzww
+tFctDnVFpppHVBTdzdTQwl
+FtSFqSptfJCqqJStZCqDpDJMhvLLgLMgQgjgGZgGgMPLZg
+zwsWgSGWLSVhPWhtLgLWhPVNQTmDrDQttZpdQtdpQDDQZQ
+fjCHcvvjMDrppCQpVV
+VMqRnVJMVLPzbRWhGh
+mjRmzQlzDzNHWwDZ
+FBfJBGqnnpfSVGnpJbJVfNtCsJHWZvrsNJCZrCNsvN
+fZPBnfPqSBqdfpFbVnVSjgdcLLgRLjmgRhLLghlR
+FSFnTcppdQtnnDhtzDfg
+ZLGVmBLBVwZCVjjGqGhVwVVgzzbMDtNNvszMmMffNDDvtM
+VZPJjBZVqBZZBjqwVqllpSTphhQFPShWSQcW
+hTRdcLrCLgplLvBFGvlL
+nZDZqzbDbDzRZtVNDzDWGwslsllBFpnlpGvJssFG
+zbqjNWQVmVPrrRjRdRhS
+VpNCbVHlHHZfflVfmchctqFcqQQjZmZM
+WDSRGgsSvgJSRrnWgqQhmjBqmhqrtLqmQm
+znSGTgDJnsDGzgwCwlpbCNwHzVtl
+sTTTrpHFFFqTnQbbvfJdDzHHDLVV
+CjMtgMgRvbPfjjvB
+mhMvlhhWClvqshNTQQqsNN
+tWFtFBzbwdFrpmdhdm
+qTqDjJjJQQqMjTDLJjNqNqPNdmpcSmhdmhhmcrWZpdPGddcc
+RjNQLJNTTJDDJRHHjQqnMWtlvvVvbtBvRVzgzgwgVg
+CGdQjwdJrbBmpmZZZlRWcb
+NgtMPVstgSzBLzhgzgLgDRlcmDWRmlZvcSmDSvvp
+LhNsgPPLFPPsNzMhhVzPsGJBFqwQGfnqfQjdGdGfwr
+CNbNdbzjCZpPNzjmzjsCMRJvnnMRGnsvJGRs
+wrtdwTLWFcFWdFgwRRsnJGnGfTGJfMsq
+FttcwgBtgVLgPldQSNZBzBpz
+DjRZrrRmttRFDvDrFTZsnWnHVSTSSJVZJH
+dNNhLqlLLqdCzfMMlCfSncTVVWcHdcVsVdSVnT
+QqppMfzMfqWCwbRQrwFrrttQ
+dwGjHrtjsdhfCHnPSpfMfDPpPDWS
+lmNzzlLbFqcqNgzpWMSvbbvDQDGWDp
+LBmglgmqBqmrwCGhCjVtBC
+tvHgWZCCprlgpWglCtjPhLmPmhVdJFSzVzdJVmmQ
+fBnTTnNNBnwfnNqcBbBBTbGJQQJhSSdQJJsmdJFSQGSmVV
+cMcDwFbRfFRlHCRCZrrp
+ZFWmgghzBgwgjWBzjzmRWWMmsVwnVrsdVdwNrrpnnVrPCnCP
+GLLbtGqllctqvGJvSlQbJGsPnVdsdpsTPLsVppBCTVss
+tJBStGSvctvDDfczmRgRZjzDjZmgzH
+FMrLmsQQSWzCZBhpQJTQQZ
+dPPVncVvPBJDCPhwJD
+fvHbbVHvqnvvvBzgLbbGGmrbMr
+mrZzrzqDrhZqDddSFrCGLLLPQPQBJPJJBnQq
+TgbpGblWlMsjgWlgMfpNRgbRHHBnHHHtLpCJPCPBnBLJtQQL
+sbTlblTlvRbbGblbFcdDzccVcDVvzzzd
+zMzfzlGwSBMMSCMzhsPgfcPcfcbhjQPt
+FHHqJVdJmFmdVrJdJppthscjGtqRPRcccgcQbR
+rvNJJpLrvvLnJvNFFvZZZBWznBWGSDCMnCwz"
+
+#!fsharp
+
+open System.Text.RegularExpressions
+
+let matches = Regex.Matches(raw, "(\w+)")
+
+matches.Count
+
+#!fsharp
+
+//let upperCase_points = [65..90]  |> Array.ofSeq
+//let lowerCase_points = [97..122] |> Array.ofSeq
+
+//let pointsForLetters = Array.concat [upperCase_points; lowerCase_points]
+
+//let findArrayIndex( elem: int, arr: int[]) :int = Array.FindIndex( arr, (=) elem)
+
+let lowerCase = ['a'..'z'] |> Array.ofSeq
+let upperCase = ['A'..'Z'] |> Array.ofSeq
+
+let asciiArray = Array.concat [lowerCase; upperCase]
+
+let findArrayIndex_byChar( elem: char, arr: char[]) :int = Array.FindIndex( arr, (=) elem)
+
+//let pointValue ( c: char) :int = 
+//  let charToInt = c |> int
+//  let result = findArrayIndex( charToInt, pointsForLetters)
+//  result + 1         // adust for 0 indexing
+
+let pointValue ( c: char) :int = findArrayIndex_byChar( c, asciiArray) + 1
+
+//pointValue( 'A') // should equal 52, if char not found value is 0
+
+for c in asciiArray do
+  Console.Write( "{0}={1}, ", c, pointValue(c))
+
+#!fsharp
+
+open System.Text.RegularExpressions
+
+let temp = matches |> Seq.map (fun x -> x.Value)
+                   |> Array.ofSeq
+
+let backpackArrays = temp 
+                     |> Array.map (fun x -> Regex.Matches(x, "(\w)"))
+                     |> Array.map (fun y -> y 
+                                            |> Array.ofSeq 
+                                            |> Array.map (fun z -> z.Value |> char |> pointValue)
+                                    )
+
+let char_backpackArrays = temp 
+                          |> Array.map (fun x -> Regex.Matches(x, "(\w)"))
+                          |> Array.map (fun y -> y 
+                                                 |> Array.ofSeq 
+                                                 |> Array.map (fun z -> z.Value |> char)
+                                        )
+//char_backpackArrays
+
+#!fsharp
+
+type contents = {
+                 left: int[]
+                 right: int[]
+                }
+
+type char_contents = {
+                      left: char[]
+                      right: char[]
+                     }
+
+let splitPacks( pack: int[]) : contents = 
+    // if( pack.Count % 2 != 0) printfn( "ERROR: pack size was not even.  Size = %A", pack.Count) |> unit
+    // else unit
+    let packHalfSize = pack.Length/2
+    { left = pack[0..packHalfSize-1]
+      right = pack[packHalfSize..pack.Length]
+    }
+
+let char_splitPacks( pack: char[]) : char_contents = 
+    // if( pack.Count % 2 != 0) printfn( "ERROR: pack size was not even.  Size = %A", pack.Count) |> unit
+    // else unit
+    let packHalfSize = pack.Length/2
+    { left = pack[0..packHalfSize-1]
+      right = pack[packHalfSize..pack.Length]
+    }
+
+let backpackContents = backpackArrays
+                       |> Array.map (fun x -> splitPacks( x))
+
+let char_backpackContents = char_backpackArrays
+                            |> Array.map (fun x -> char_splitPacks( x))
+
+// char_backpackContents
+
+#!fsharp
+
+let pointsFromPack( pack: contents) : int[] = 
+  seq { for point in pack.left do
+          pack.right |> Array.fold (fun result x -> if x = point && result = -1 
+                                                    then point 
+                                                    else result) -1
+      } 
+  |> Array.ofSeq
+
+#!fsharp
+
+let max_pointsFromPack( pack: contents): int = 
+    pointsFromPack( pack) |> Array.fold (fun result x -> if x > result then x else result) -1
+
+let min_pointsFromPack( pack: contents): int = 
+    pointsFromPack( pack) |> Array.fold (fun result x -> if x < result then x else result) 100000
+
+#!fsharp
+
+// max_pointsFromPack( test_pack)
+
+let pointsFromEachPack = backpackContents
+                         |> Array.map (fun pack -> max_pointsFromPack( pack))
+
+// pointsFromEachPack
+
+#!fsharp
+
+let day3_part1 = pointsFromEachPack |> Array.fold (fun acc point -> acc + point) 0
+
+day3_part1
+
+#!fsharp
+
+let rec print_groupBy3 (arr: char[][]): unit =
+    let first3 = arr[0..2]
+    let rest = arr[3..]
+    match first3 with 
+    | [| x1; x2; x3 |] -> Console.WriteLine( "{0} {1} {2}", x1.Length, x2.Length, x3.Length)
+                          print_groupBy3( rest)
+    | [||] -> Console.WriteLine( "END")
+    | _ -> Console.WriteLine( "ERROR!!!")
+
+// char_backpackArrays |> print_groupBy3
+
+#!fsharp
+
+type triple = {
+                first: char[]
+                second: char[]
+                third: char[] 
+               }
+
+let rec groupBy3 (arr: char[][]):  triple[] =
+    let first3 = arr[0..2]
+    let rest = arr[3..]
+    match first3 with 
+    | [| x1; x2; x3 |] -> Array.concat [| [| {first = x1; second = x2; third = x3} |]; groupBy3( rest) |]
+    | [||] -> Console.WriteLine( "END"); [||]
+    | _ -> Console.WriteLine( "ERROR!!!"); [||]
+
+let elvesInGroupsOf3 = char_backpackArrays |> groupBy3
+
+#!fsharp
+
+let badges = [ for g3 in elvesInGroupsOf3 do 
+                  Set.intersect( Set.intersect (Set.ofArray g3.first) (Set.ofArray g3.second)) (Set.ofArray g3.third) 
+                  |> Set.minElement
+                  |> pointValue
+              ]
+
+badges
+
+#!fsharp
+
+let day3_part2 = badges  |> List.fold (fun acc points -> acc + points) 0
+
+day3_part2
